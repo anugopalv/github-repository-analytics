@@ -1,0 +1,7 @@
+
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+app_overview_backup.py
+inspect_data.py
