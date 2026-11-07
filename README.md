@@ -19,6 +19,12 @@ The original dataset was processed using PySpark, cleaned, deduplicated and conv
 | Top 1% share of all stars | 55.3% |
 | Recently updated repositories | 23.6% |
 
+## 🚀 Live Dashboard
+
+Explore the interactive dashboard here:
+
+👉 https://repo-insights-dashboard.streamlit.app
+
 ## Dashboard Features
 
 - Repository Popularity Analysis
